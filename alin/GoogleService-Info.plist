@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>276284131908-jas7c4ksvhl6hq1e3ij4jlr9um655kut.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.276284131908-jas7c4ksvhl6hq1e3ij4jlr9um655kut</string>
+	<key>API_KEY</key>
+	<string>AIzaSyABAUBBh2IwXx6jLh0v3086UAVUluAbMkk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>276284131908</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ajcaldwell.alin</string>
+	<key>PROJECT_ID</key>
+	<string>alin-fec0a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>alin-fec0a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:276284131908:ios:4d7dc933c6b7fdaa188a11</string>
+	<key>DATABASE_URL</key>
+	<string>https://alin-fec0a.firebaseio.com</string>
+</dict>
+</plist>
